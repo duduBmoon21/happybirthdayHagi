@@ -1,6 +1,6 @@
 ## 🎉 Birthday Greeting Webpage 
 
-[Demo]()
+[DEMO](https://anchi-ras-metat.vercel.app/)
 
 ## 🚀 How to Use
 
@@ -8,10 +8,10 @@
 
     ```bash
     # Clone this repository or download it
-    $ git clone 
+    $ git clone  https://github.com/duduBmoon21/happybirthdayHagi.git
 
     # Go into the repository
-    $ cd happybirthday
+    $ cd happybirthdayHagi
 
     # Open it with your text editor
     $ code .
@@ -23,7 +23,8 @@
 
 3. **Deployment**
 
-    To make your site online, you can enable GitHub Pages for the repository (Settings -> Pages). Alternatively, you can use [Vercel](https://vercel.com).
+    To make your site online, you can use [Vercel](https://vercel.com).
+    [ anchi-ras-metat.vercel.app](https://anchi-ras-metat.vercel.app/)
 
 ## 📝 Contributing
 
